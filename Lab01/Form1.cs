@@ -25,7 +25,7 @@ namespace _2611COMP101904_Lap_trinh_Windows
             {
                 MessageBox.Show("Năm sinh không được rỗng!");
                 txtNamsinh.Focus();
-                return;
+                return; 
             }
             int namSinh;
 
